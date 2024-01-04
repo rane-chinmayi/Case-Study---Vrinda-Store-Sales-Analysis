@@ -1,3 +1,3 @@
 # Case-Study: Vrinda-Store-Sales-Analysis
 
-![Alt text](image.png)
+![Alt text](Dashboard1.png)
